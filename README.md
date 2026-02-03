@@ -1,6 +1,8 @@
 # Kingdom-Hearts-loot-filter-costum-sounds
 These PoE / PoE2 loot filter custom sounds will give you the highest dopamine rush, when getting those sweet sweet currency drops!
 
+DISCLAIMER: They are very loud! So change your Item Filter Alert Volume lower (~30%) first and increase it from there, to not get deafened by the sounds!
+
 How to set it up:
 
 1. After downloading the loot filter sounds, go to "C:\Users\Documents\My Games\Path of Exile" or "C:\Users\Documents\My Games\Path of Exile 2"
