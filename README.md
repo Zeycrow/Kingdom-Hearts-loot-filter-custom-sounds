@@ -15,4 +15,4 @@ How to set it up:
 
 Check your chat box, it'll tell you whether the Filter loaded successfully, the name + the version of the filter and the time of the last update, which should coincide with the time you created the filter
 
-Have fun with your new Tings and Shwings, I hope they'll bring you as much joy as they brought me! ;D
+Have fun with your new Tings and Shwings, I hope they'll bring you as much joy as they brought to me! ;D
